@@ -1,4 +1,4 @@
-#Operation Community
+# Operation Community
 
 Game made for BGS Home Jam 2020.  
 
